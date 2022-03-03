@@ -29,11 +29,6 @@ The objectives as part of this project are:
 <img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/right.png" width="500" height="500"/>
 </p>
 
-<h1>Cube Projection on AR Tag</h1>
-<p align="center">
-<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/cube_projection.png"/>
-</p>
-
 <h1>Links to view the projects result</h1>
 <ul>
 <li>Histogram Equalization: https://youtu.be/xaZ8mgaKYL4</li>
