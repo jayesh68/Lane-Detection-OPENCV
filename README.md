@@ -12,8 +12,8 @@ The objectives as part of this project are:
   
 <h1>Histogram Equalization</h1>
 <p float="left">
-<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/dark_image.png" width="400" height="400"/>
-<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/histogram%20equalized.png" width="400" height="400"/>
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/dark_image.png" width="500" height="500"/>
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/histogram%20equalized.png" width="500" height="500"/>
 </p>
   
 
