@@ -19,14 +19,14 @@ The objectives as part of this project are:
 
 <h1>Detection of lanes for a single lane video</h1>
 <p float="left">
-<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/vid1left.png" width="400" height="400" />
-<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/vid1straight.png" width="400" height="400"/>
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/vid1left.png" width="500" height="500" />
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/vid1straight.png" width="500" height="500"/>
 </p>
 
 <h1>Detection of lanes for a multiple lane video</h1>
 <p align="center">
-<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/straight.png" width="400" height="400"/>
-<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/right.png" width="400" height="400"/>
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/straight.png" width="500" height="500"/>
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/right.png" width="500" height="500"/>
 </p>
 
 <h1>Cube Projection on AR Tag</h1>
