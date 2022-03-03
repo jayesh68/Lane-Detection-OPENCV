@@ -17,15 +17,16 @@ The objectives as part of this project are:
 </p>
   
 
-<h1>AR Tag Detection using contour extraction and homography</h1>
+<h1>Detection of lanes for a single lane video</h1>
 <p float="left">
-<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Decode2.png" width="400" height="400" />
-<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Decode3.png" width="400" height="400"/>
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/vid1left.png" width="400" height="400" />
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/vid1straight.png" width="400" height="400"/>
 </p>
 
-<h1>Image Superimposition on AR Tag</h1>
+<h1>Detection of lanes for a multiple lane video</h1>
 <p align="center">
-<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Image_Superimpose.png"/>
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/straight.png" width="400" height="400"/>
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/right.png" width="400" height="400"/>
 </p>
 
 <h1>Cube Projection on AR Tag</h1>
