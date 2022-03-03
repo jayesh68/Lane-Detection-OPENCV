@@ -1,20 +1,41 @@
-1. The python code to run problem1 for the histogra equalization is hist_eq.py.
-2. The python code to run problem2 on dataset1 is dataset1.py.
-3. The python code to run problem2 on the challenge video is challenge_video.py
-4. The PDF file of the report for the project is project2_report.pdf.
+<div align="center">
+<h1>Lane Detection and Predicting turns</h1>
+</div>
 
+<h1>Project Objectives</h1>
+The objectives as part of this project are:
+<ol>
+<li>To perform histogram equalization on an an image and video to improve image quality for dark images</li>
+<li>Detect lanes on a simple one lane video using a Sobel Filter and predict turns</li>
+<li>Detect lanes on a 2 lane video video using color segmentation techniques and make it robust for detection under low lighting conditions</li>
+</ol>
+  
+<h1>Histogram Equalization</h1>
+<p float="left">
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/dark_image.png" width="400" height="400"/>
+<img src="https://github.com/jayesh68/Lane-Detection-using-OPENCV/blob/main/histogram%20equalized.png" width="400" height="400"/>
+</p>
+  
 
-hist_eq.py performs the histogram equalization on the provided video.
-dataset1.py uses the video formed by stitching the images provided and performing the lane detection
-challenge_video.py performs the same process on challenge_video.mp4.
+<h1>AR Tag Detection using contour extraction and homography</h1>
+<p float="left">
+<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Decode2.png" width="400" height="400" />
+<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Decode3.png" width="400" height="400"/>
+</p>
 
-The 3 video files are:
-night_drive.mp4 for Problem1
-lane.avi which is the video formed by stitching the images provided in dataset1
-challenge_video.avi is the video for 2nd part of problem2 
+<h1>Image Superimposition on AR Tag</h1>
+<p align="center">
+<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Image_Superimpose.png"/>
+</p>
 
-The videos can be seen in the youtube links included by clicking on the links in the report.
-The links for the 3 videos are as follows:
-Histogram Equalization: https://youtu.be/xaZ8mgaKYL4
-Dataset1: https://youtu.be/xXvt_2zhLkw
-CHallenge Video: https://youtu.be/vdTHJ5BlsSI
+<h1>Cube Projection on AR Tag</h1>
+<p align="center">
+<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/cube_projection.png"/>
+</p>
+
+<h1>Links to view the projects result</h1>
+<ul>
+<li>Histogram Equalization: https://youtu.be/xaZ8mgaKYL4</li>
+<li>Detecting lanes under simple conditions: https://youtu.be/xXvt_2zhLkw</li>
+<li>Detecting Lanes under Complex conditions: https://youtu.be/vdTHJ5BlsSI</li>
+</ul>
